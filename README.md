@@ -1,2 +1,0 @@
-# ChatterBox
-Server + Client
